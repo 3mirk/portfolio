@@ -22,8 +22,8 @@ Please visit my [Tableau profile](https://public.tableau.com/app/profile/ahmet.e
 | Vizzes | Description | Link |
 | :---         |     :---:      | :---: |
 |`Implemented Dashboards`   | Map View of my implemented dashboards.    | [link](https://public.tableau.com/app/profile/ahmet.emir.kara/viz/ImplementedDashboards/EmirsImplementedDashboards)|
-|`Process Control Discovery`   | Box Plots and Pass-Fail Bar Charts to identify worst performers.     | [link](https://public.tableau.com/app/profile/ahmet.emir.kara/viz/ProcessControlDiscoveryv2/BoxPlots)|
 |`Process Control Overview`   | Daily Adherence to Process Control standards and log view for individual records.  | [link](https://public.tableau.com/app/profile/ahmet.emir.kara/viz/ProcessControlOverviewv2/DailyOverview)|
+|`Process Discovery`   | Box Plots and Pass-Fail Bar Charts to identify worst performers.     | [link](https://public.tableau.com/app/profile/ahmet.emir.kara/viz/ProcessControlDiscoveryv2/BoxPlots)|
 | `Inspection Discovery`     | Scatter Plots and Pareto Bar Charts to identify worst performing products and lens types.      | [link](https://public.tableau.com/app/profile/ahmet.emir.kara/viz/InspectionDiscovery/Discovery)      |
 | `Inspection Overview`     | Provides OEE and Quality Performance for plant optical and inspection device performance.      | [link](https://public.tableau.com/app/profile/ahmet.emir.kara/viz/InspectionDevicePerformance/Performance)      |
 
