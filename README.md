@@ -30,7 +30,7 @@ Please visit my [Tableau profile](https://public.tableau.com/app/profile/ahmet.e
 # SQL <img src="https://github.com/3mirk/Portfolio/assets/106506098/2d775b27-28d9-42b5-b224-25cb00daa80a" width="47" height="47">
 | Project | Description | Link |
 | :---         |     :---:      |          ---: |
-|`Manufacturing WIP Tracker`   | Multiple joins across 4 tables from Informix database prepped for a left join with a MS SQL server    |[link](https://github.com/3mirk/manufacturing-wip-tracker) |
+|`WIP Job Tracker`   | Multiple joins across 4 tables from Informix database prepped for a left join with a MS SQL server    |[link](https://github.com/3mirk/manufacturing-wip-tracker) |
 |`Process Control Tracking`   | MS SQL server query prepped for a left join with an Informix Query.     |[link](https://github.com/3mirk/Process-Control-SQL-PowerBI-Integration) |
 
 
