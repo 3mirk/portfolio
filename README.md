@@ -2,20 +2,20 @@
 
 Thank you for visitng my portfolio.<br>
 I have added here a selection of my data analysis projects. <br>
-Click [here](https://github.com/3mirk) to visit my profile. 👨‍🔧
+Click [here](https://github.com/3mirk) to visit my profile.
 
 ## Table of Contents
-- [SQL](#sql)
-- [Tableau](#tableau)
-- [Power BI](#power-bi)
 - [Python](#python) 
+- [Tableau](#tableau)
+- [SQL](#sql)
 
-# SQL <img src="https://github.com/3mirk/Portfolio/assets/106506098/2d775b27-28d9-42b5-b224-25cb00daa80a" width="47" height="47">
+
+# Python <img src="https://github.com/3mirk/Portfolio/assets/106506098/d7045e61-1635-4181-b23d-63a87aea175c" width="47" height="47">
 | Project | Description | Link |
 | :---         |     :---:      |          ---: |
-|`QRQC`   | Multiple joins across 4 tables from Informix database prepped for a left join with a MS SQL server    |link |
-|`Process Control Tracking`   | MS SQL server query prepped for a left join with an Informix Query.     |link |
-|`Inspection Device Reporting`   | Common Table Expression with Case Statements     |link |
+|`SQL Data-Staging Tool`   | Multi-threaded tool for concurrent SQL pulls from different DB types.    |[link](https://github.com/3mirk/py-sql-staging) |
+|`Log File to SQL ETL`   | Python watchdog ETL to pivot log files to PostgreSQL DB.|[link](https://github.com/3mirk/Log-File-to-PostgreSQL-ETL) |
+|`Lens Report Generator`   | PyQt6 GUI to generate PDF reports with Matplotlib heatmap vizzes.  |[link](https://github.com/3mirk/lens-inspection-report-generator) |
 
 # Tableau <img src="https://github.com/3mirk/3mirk/assets/106506098/097f6a31-bf9f-48f0-9393-27ed6c908b73" width="47" height="47">
 Please visit my [Tableau profile](https://public.tableau.com/app/profile/ahmet.emir.kara/vizzes) for a sample of my Tableau vizzes.
@@ -27,21 +27,11 @@ Please visit my [Tableau profile](https://public.tableau.com/app/profile/ahmet.e
 | `Inspection Discovery`     | Scatter Plots and Pareto Bar Charts to identify worst performing products and lens types.      | [link](https://public.tableau.com/app/profile/ahmet.emir.kara/viz/InspectionDiscovery/Discovery)      |
 | `Inspection Overview`     | Provides OEE and Quality Performance for plant optical and inspection device performance.      | [link](https://public.tableau.com/app/profile/ahmet.emir.kara/viz/InspectionDevicePerformance/Performance)      |
 
-# Power BI <IMG SRC="https://github.com/3mirk/Portfolio/assets/106506098/60ccfbb8-5022-451b-96d8-05b2f6f1a254" width="47" height="47">
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-|`git status`   | git status     | git status    |
-| `git diff`     | git diff       | git diff      |
-
-# Python <img src="https://github.com/3mirk/Portfolio/assets/106506098/d7045e61-1635-4181-b23d-63a87aea175c" width="47" height="47">
-Please visit my [Kaggle profile](https://public.tableau.com/app/profile/ahmet.emir.kara/vizzes) for a sample of my data science notebooks.
+# SQL <img src="https://github.com/3mirk/Portfolio/assets/106506098/2d775b27-28d9-42b5-b224-25cb00daa80a" width="47" height="47">
 | Project | Description | Link |
 | :---         |     :---:      |          ---: |
-|`DDF Extractor`   | Extract criteria and values from output files, and aggregate them into a readable cvs file using glob2 and pandas.    |link |
-|`PMF Extractor`   | Visualize optical measurement data, compiling key metrics into an insightful and structured format.  |link |
-|`Internal Report Tool`   | Tool designed to aggregate output files to generate report with visuals and pass-fail decision.    |link |
-|`Inspection Device Discovery`   | Numpy and Seaborn discovery into over 2 million rows of optical performance.     |link |
-|`Log File to SQL ETL`   | Auto-scheduled script to feed machine log files into dedicated SQL Server.     |link |
+|`Manufacturing WIP Tracker`   | Multiple joins across 4 tables from Informix database prepped for a left join with a MS SQL server    |[link](https://github.com/3mirk/manufacturing-wip-tracker) |
+|`Process Control Tracking`   | MS SQL server query prepped for a left join with an Informix Query.     |[link](https://github.com/3mirk/Process-Control-SQL-PowerBI-Integration) |
 
 
 <br></br>
