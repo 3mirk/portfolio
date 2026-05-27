@@ -14,7 +14,7 @@ Click [here](https://github.com/3mirk) to visit my profile.
 | Project | Description | Link |
 | :---         |     :---:      |          ---: |
 |`SQL Data-Staging Tool`   | Multi-threaded tool for concurrent SQL pulls from different DB types.    |[link](https://github.com/3mirk/py-sql-staging) |
-|`Log File to SQL ETL`   | Python watchdog ETL to pivot log files to PostgreSQL DB.|[link](https://github.com/3mirk/Log-File-to-PostgreSQL-ETL) |
+|`Log File to PostgreSQL ETL`   | Python watchdog ETL to pivot log files to PostgreSQL DB.|[link](https://github.com/3mirk/Log-File-to-PostgreSQL-ETL) |
 |`Lens Report Generator`   | PyQt6 GUI to generate PDF reports with Matplotlib heatmap vizzes.  |[link](https://github.com/3mirk/lens-inspection-report-generator) |
 
 # Tableau <img src="https://github.com/3mirk/3mirk/assets/106506098/097f6a31-bf9f-48f0-9393-27ed6c908b73" width="47" height="47">
