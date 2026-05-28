@@ -31,7 +31,7 @@ Please visit my [Tableau profile](https://public.tableau.com/app/profile/ahmet.e
 | Project | Description | Link |
 | :---         |     :---:      |          ---: |
 |`WIP Job Tracker`   | Multiple joins across 4 tables from Informix database prepped for a left join with a MS SQL server    |[link](https://github.com/3mirk/manufacturing-wip-tracker) |
-|`Process Control Track`   | MS SQL server query prepped for a left join with an Informix Query.     |[link](https://github.com/3mirk/Process-Control-SQL-PowerBI-Integration) |
+|`Process Control Result Parses`   | Create MySQL view parsing semi-structured column using CTE's and Nested SUBSTRING_INDEX Calls.    |[link](https://github.com/3mirk/Process-Control-SQL-PowerBI-Integration) |
 
 
 <br></br>
